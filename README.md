@@ -4,6 +4,16 @@
 
 [![Linkedin: Sara Mediouni](https://img.shields.io/badge/-Sara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sara-mediouni-726b87205/)](https://www.linkedin.com/in/sara-mediouni-726b87205/)
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sara-mediouni-726b87205/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=sarramediouni99@gmail.com&tf=1">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+ 
+</div>
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
