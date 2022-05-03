@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineering Student </em></p>
 
-[![Linkedin: Sara Mediouni](https://img.shields.io/badge/-Sara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sara-mediouni-726b87205/)](https://www.linkedin.com/in/sara-mediouni-726b87205/)
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sara-mediouni-726b87205/">
