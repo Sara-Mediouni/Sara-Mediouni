@@ -1,5 +1,5 @@
 <h2>Hello 🙏🏻, I'm Sara Mediouni ! <img src="https://media.giphy.com/media/xUOxf9qA9iupNWfT3y/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="230">
 <p><em>Software Engineering Student </em></p>
 
 
