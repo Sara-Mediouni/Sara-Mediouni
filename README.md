@@ -1,6 +1,7 @@
 <h2>Hello, I'm Sara Mediouni !</h2>
 <img align="right"src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="240">
 <img/>
+<br/>
 
 
 <em>Software Engineering Student </em></p>
@@ -22,4 +23,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sara-Mediouni&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Mediouni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
