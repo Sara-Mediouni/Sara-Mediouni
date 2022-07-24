@@ -16,7 +16,7 @@
  
 </div>
 <br/>
-
+<br/>
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,nodejs,mysql,java,php,mongodb,postgres,expressjs,spring,symfony)](https://skills.thijs.gg)
 
 <br/>
