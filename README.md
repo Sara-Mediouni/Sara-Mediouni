@@ -1,5 +1,5 @@
 <h2>Hello, I'm Sara Mediouni !</h2>
-<img align='right' src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="230">
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 <p><em>Software Engineering Student </em></p>
 
 
