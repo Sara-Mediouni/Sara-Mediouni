@@ -15,7 +15,7 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=mediounisarra99@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
  
 </div>
-
+<br/>
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,nodejs,mysql,java,php,mongodb,postgres,expressjs,spring,symfony)](https://skills.thijs.gg)
 
