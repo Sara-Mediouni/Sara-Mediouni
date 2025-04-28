@@ -4,7 +4,7 @@
 <br/>
 
 
-<em>Software Engineer </em></p>
+<em>Full Stack Developer | React.js | Node.js | Passionnée par la tech et l'UX ✨ </em></p>
 
 
 
