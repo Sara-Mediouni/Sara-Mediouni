@@ -6,7 +6,7 @@
 
 <em>Full Stack Developer | React.js | Node.js | Passionnée par la tech et l'UX ✨ </em></p>
 
-
+[![My Skills](https://skillicons.dev/icons?i=react,node,tailwindcss,wasm)](https://skillicons.dev)
 
 
  
