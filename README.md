@@ -4,7 +4,7 @@
 <br/>
 
 
-<em>Full Stack Developer | React.js | Node.js | Passionnée par la tech et l'UX ✨ </em></p>
+<em>Full Stack Developer | React.js | Node.js | Passionate about tech and UX ✨ </em></p>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,tailwindcss,mongodb,mysql,py,js,c,cs,)](https://skillicons.dev)
 
