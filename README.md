@@ -32,12 +32,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-pseudo&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sara-Mediouni&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-Mediouni&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ton-pseudo&theme=rogue" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sara-Mediouni&theme=rogue" alt="activity graph"/>
 </p>
 
 ---
