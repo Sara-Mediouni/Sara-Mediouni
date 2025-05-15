@@ -14,8 +14,8 @@
 - 🎨 I love building animated UIs with **TailwindCSS** and **React Motion**
 - 🔄 Obsessed with **code quality**, **reusability**, and **DX**
 - 🌍 Freelancing, collaborating & building cool stuff  
-- 📫 Reach me at: [`ton.email@example.com`](mailto:ton.email@example.com)  
-- 🔗 [My LinkedIn](https://linkedin.com/in/ton-pseudo)
+- 📫 Reach me at: [`mediounisarra99@gmail.com`](mailto:mediounisarra99@gmail.com)  
+- 🔗 [My LinkedIn](https://www.linkedin.com/in/sara-mediouni-726b87205/)
 
 ---
 
