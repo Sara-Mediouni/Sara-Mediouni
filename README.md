@@ -36,9 +36,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-Mediouni&theme=radical" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sara-Mediouni&theme=rogue" alt="activity graph"/>
-</p>
+
 
 ---
 
@@ -46,7 +44,7 @@
 
 ## 🐍 Contribution Snake (just for fun)
 
-![snake gif](https://github.com/ton-pseudo/ton-pseudo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Sara-Mediouni/Sara-Mediouni/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
