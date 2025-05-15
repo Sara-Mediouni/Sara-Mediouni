@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 💡 Fullstack JS Developer – specialized in **React**, **Node.js** and **microservices**
+- 💡 Fullstack JS Developer – specialized in **React** and **Node.js** 
 - 🧪 Passionate about **unit testing**, **clean architecture**, and **performance**
 - 🎨 I love building animated UIs with **TailwindCSS** and **React Motion**
 - 🔄 Obsessed with **code quality**, **reusability**, and **DX**
