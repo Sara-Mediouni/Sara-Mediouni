@@ -25,17 +25,6 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,tailwind,js,ts,git,docker,jest,vite" />
 </p>
 
----
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sara-Mediouni&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-Mediouni&theme=radical" width="48%"/>
-</p>
-
 
 
 ---
