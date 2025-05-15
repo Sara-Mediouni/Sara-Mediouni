@@ -33,7 +33,7 @@
 
 ## 🐍 Contribution Snake (just for fun)
 
-![snake gif](https://github.com/Sara-Mediouni/Sara-Mediouni/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/Sara-Mediouni/Sara-Mediouni/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
