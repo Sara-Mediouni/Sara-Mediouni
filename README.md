@@ -27,19 +27,3 @@
 
 
 
----
-
-
-
-## 🐍 Contribution Snake (just for fun)
-
-![GitHub Snake](https://github.com/Sara-Mediouni/Sara-Mediouni/blob/output/github-contribution-grid-snake.svg)
-
----
-
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
