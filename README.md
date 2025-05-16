@@ -26,7 +26,7 @@
 - 🎨 I love building animated UIs with **TailwindCSS** and **React Motion**
 - 🔄 Obsessed with **code quality**, **reusability**, and **DX**
 - 🌍 Freelancing, collaborating & building cool stuff  
-- 📫 Reach me at: [`mediounisarra99@gmail.com`](mailto:mediounisarra99@gmail.com)
+
 
 ---
 
