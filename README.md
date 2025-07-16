@@ -33,7 +33,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,js,mongodb,postgres,tailwind,vite,jest,docker,git,angular,spring" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,js,mongodb,postgres,tailwind,vite,docker,git,angular,spring" />
 </p>
 
 ---
