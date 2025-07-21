@@ -46,7 +46,7 @@
 - Learning **NestJS** and improving my DevOps skills
 
 ---
-![Calendrier annuel GitHub](https://github.com/Sara-Mediouni/Sara-Mediouni/blob/main/metrics.plugin.isocalendar.svg)
+![Calendrier annuel GitHub](https://github.com/Sara-Mediouni/Sara-Mediouni/blob/main/metrics.plugin.isocalendar.fullyear.svg)
 
 ## 🧾 Terminal
 
