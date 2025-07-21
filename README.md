@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=React+%2F+Node.js+Dev;Loves+Clean+Code+%26+Microservices;Frontend+With+Flair+%F0%9F%9A%80;Let's+Build+Something+Awesome!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Full-Stack+Dev;Loves+Clean+Code+%26+Microservices;Frontend+With+Flair+%F0%9F%9A%80;Let's+Build+Something+Awesome!" alt="Typing animation" />
 </p>
 
 ---
