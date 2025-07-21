@@ -1,22 +1,21 @@
-name: Generate Full-Year GitHub Activity Calendar
+name: Full-year calendar
 
 on:
-  schedule:
-    - cron: "0 0 * * 0" # Chaque dimanche à minuit
-  workflow_dispatch:     # Permet le lancement manuel
+  workflow_dispatch:
 
 permissions:
   contents: write
   pull-requests: write
 
 jobs:
-  generate_calendar:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar.duration: full-year
